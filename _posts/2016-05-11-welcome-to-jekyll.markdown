@@ -4,6 +4,7 @@ title:  "Biggest takeaways after year 1"
 date:   2016-05-11 22:01:43 +0530
 author: "Adriel"
 ---
+
 I’d like to share some of the key things I’ve learned during my experience as a software engineer as well as the main differences from coding in college vs. the real world.
 
 **Know when to ask for help and when to keep trying on your own**
@@ -53,4 +54,5 @@ Currently I only write new new code if it’s making a failing unit test pass. A
 **Version Control is really useful**
 
 Here is another thing that was foreign to me in college, however in the workplace it is fundamental. Version control is the system that keeps track of our code and all the changes that everyone makes to it. It is a tool that allows us to contribute to the same code base simultaneously without overwriting each other’s changes. Also it’s great because it stores all the history of our code, so if I want to see what our code looked like a week ago, I can easily do it. At our company we used to use subversion, but now we use git and I like it much better.
-![](https://68.media.tumblr.com/bee74997135631c5c74f958f62aac38c/tumblr_inline_nzb4s5WKKJ1sx75ce_540.jpg)
+
+<img src="{{ site.url }}/assets/99problems.jpg" width="100%">
