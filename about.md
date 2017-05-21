@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: dev-blog/about
 ---
 
 <p class="message">
