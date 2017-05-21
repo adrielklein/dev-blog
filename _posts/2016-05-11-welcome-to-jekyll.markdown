@@ -13,7 +13,7 @@ I often have a dilemma at work when I’m stuck on a problem. Should I ask my bo
 
 If I keep on trying to solve the problem by myself but I don’t know enough information to solve it, then I won’t be able to solve the problem. There’s a reason why we work together and it’s important to reach out for help when necessary. My boss knows a lot more than I do, and there’s a chance that what will take me countless hours of fruitless frustration will only take him a moment to point me in the right direction.
 
-On the other hand, if my boss just tells me answers to all my problems then it’s an ugly situation because I interrupt my boss from his work, I don’t learn anything, and I become dependent on my boss to figure out my problems. The best way I can become a better programmer is to solve problems on my own. I only like to ask for help when the answer lies beyond my knowledge.
+On the other hand, if my boss just tells me answers to all my problems then it’s an ugly situation because I interrupt my boss from his work, I don’t learn anything, and I become dependent on my boss to figure out my problems. The best way I can become a better programmer is to solve problems on my own. I only like to ask for help when the answer lies beyond my knowledge (and the knowledge of the internet).
 
 **The best documentation for your code is the code itself**
 
