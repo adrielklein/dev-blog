@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The best part of coding"
+title:  "The Best Part of Coding"
 date:   2016-05-12 22:01:43 +0530
 author: "Adriel"
 ---
