@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               Adriel's Dev Blog
 tagline:             'Eat, Sleep, Code, Repeat...'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'An effort to capture some of the beauty of coding with a collection of words, images, and charts.'
 url:                 http://adrielklein.github.io/dev-blog
 baseurl:             ''
 paginate:            1
