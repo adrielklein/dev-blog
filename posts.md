@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: dev-blog/posts
+permalink: /dev-blog/posts
 ---
 <div>
 <ul>
@@ -9,7 +9,6 @@ permalink: dev-blog/posts
     {% for node in posts_list %}
       {% if node.title != null %}
         {% if node.layout == "post" %}
-          {{ # hi }}
           <li><a href="{{ node.url }}">{{ node.title }}</a> ({{ node.date }})</li>
         {% endif %}
       {% endif %}
