@@ -10,6 +10,7 @@ description:         'An effort to capture some of the beauty of coding with a c
 url:                 http://adrielklein.github.io/dev-blog
 baseurl:             ''
 paginate:            1
+repo:            https://github.com/adrielklein/dev-blog
 
 # About/contact
 author:
