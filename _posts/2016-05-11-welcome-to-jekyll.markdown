@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biggest takeaways after year 1"
+title:  "Biggest Takeaways After Year 1"
 date:   2016-05-11 22:01:43 +0530
 author: "Adriel"
 ---
