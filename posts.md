@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posts
+permalink: /dev-blog/posts
 ---
 <div>
 <ul>
